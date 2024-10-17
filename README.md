@@ -1,0 +1,1 @@
+A responsive mobile shop website built with HTML and CSS, showcasing the latest smartphones and accessories. Features include a clean layout, product listings, search functionality, and easy navigation. Styled with CSS for an attractive design, ensuring a smooth user experience across devices. Ideal for showcasing and selling mobile devices online.
